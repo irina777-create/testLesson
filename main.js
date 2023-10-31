@@ -1,3 +1,3 @@
-function (name){
-
+function  test(name){
+console.log(name);
 }
